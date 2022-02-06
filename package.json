@@ -1,0 +1,23 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "description": "JavaScript Array,Object and Class exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkrasiy/js-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkrasiy/js-practice/issues"
+  },
+  "homepage": "https://github.com/rkrasiy/js-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
